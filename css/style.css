@@ -147,6 +147,18 @@ body {
     --animate-delay: 4s;
     --animate-duration: 2s;
   }
+  @media screen and (max-width: 768px) {
+    .banner{
+      max-width: 90%;
+    }
+    .banner-btn a{
+      padding: 0;
+    }
+    .banner-title {
+      font-size: 2rem;
+      
+    }
+   }
   /* --------------- End of Hero ---------------- */
   /* --------------- Search ---------------- */
   .search{
