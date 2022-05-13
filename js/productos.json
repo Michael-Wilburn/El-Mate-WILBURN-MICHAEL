@@ -216,8 +216,7 @@
             "stock": 10,
             "price": 7750,
             "images": [
-                "../images/mochilas/mochila-chaman-1.webp",
-                "../images/mochilas/mochila-chaman-2.webp"
+                "../images/mochilas/mochila-chaman-1.webp"
             ],
             "id": 400
         },
