@@ -1,0 +1,380 @@
+{
+    "mates": [
+        {
+            "name": "imperial Uruguayo",
+            "material": "calabaza",
+            "brand": "imperial",
+            "color": "negro",
+            "stock": 10,
+            "price": 4000,
+            "images": [
+                "../images/mates/imperial-calabaza-1.png",
+                "../images/mates/imperial-calabaza-2.webp",
+                "../images/mates/imperial-calabaza-3.webp"
+            ],
+            "id": 0
+        },
+        {
+            "name": "imperial Virola",
+            "material": "calabaza",
+            "brand": "imperial",
+            "color": "negro",
+            "stock": 10,
+            "price": 6000,
+            "images": [
+                "../images/mates/imperial-virola-1.png"
+            ],
+            "id": 1
+        },
+        {
+            "name": "imperial Algarrobo",
+            "material": "calabaza",
+            "brand": "imperial",
+            "color": "marron",
+            "stock": 10,
+            "price": 6500,
+            "images": [
+                "../images/mates/imperial-algarrobo-1.png",
+                "../images/mates/imperial-algarrobo-2.webp"
+            ],
+            "id": 2
+        },
+        {
+            "name": "Un Re Mate de acero",
+            "material": "acero",
+            "brand": "un mate",
+            "color": "negro",
+            "stock": 10,
+            "price": 4900,
+            "images": [
+                "../images/mates/un-mate-1.png"
+            ],
+            "id": 3
+        },
+        {
+            "name": "Un Re Mate de acero Amarillo",
+            "material": "acero",
+            "brand": "un mate",
+            "color": "amarillo",
+            "stock": 10,
+            "price": 4700,
+            "images": [
+                "../images/mates/un-mate-2.png"
+            ],
+            "id": 4
+        },
+        {
+            "name": "Mate Stanley 236ml",
+            "material": "acero",
+            "brand": "stanley",
+            "color": "verde",
+            "stock": 10,
+            "price": 7200,
+            "images": [
+                "../images/mates/stanley-1.jpeg",
+                "../images/mates/stanley-2.jpeg"
+            ],
+            "id": 5
+        },
+        {
+            "name": "Chaco blanco",
+            "material": "ceramica",
+            "brand": "chaco",
+            "color": "blanco",
+            "stock": 10,
+            "price": 8700,
+            "images": [
+                "../images/mates/chaco-1.png",
+                "../images/mates/chaco-2.png"
+            ],
+            "id": 6
+        },
+        {
+            "name": "Mate De Madera Mijo Diseño Negro",
+            "material": "madera",
+            "brand": "mijo",
+            "color": "negro",
+            "stock": 10,
+            "price": 1700,
+            "images": [
+                "../images/mates/mijo-1.png",
+                "../images/mates/mijo-2.png"
+            ],
+            "id": 7
+        }
+    ],
+    "termos": [
+        {
+            "name": "Termo Adventure 739 ML con Tapón Cebador de acero inoxidable polar",
+            "material": "acero",
+            "brand": "stanley",
+            "color": "blanco",
+            "stock": 10,
+            "price": 20000,
+            "images": [
+                "../images/termos/termo-stanley-1.webp"
+            ],
+            "id": 200
+        },
+        {
+            "name": "Termo Acero Inoxidable Doble Capa Frio Calor 2 Litros",
+            "material": "acero",
+            "brand": "kanson",
+            "color": "verde",
+            "stock": 10,
+            "price": 8000,
+            "images": [
+                "../images/termos/termo-Kanson-2.webp"
+            ],
+            "id": 201
+        },
+        {
+            "name": "Termo Discovery Matero 1.3 Lt Acero Inoxidable Tapón Cebador",
+            "material": "acero",
+            "brand": "stanley",
+            "color": "verde",
+            "stock": 10,
+            "price": 9000,
+            "images": [
+                "../images/termos/termo-stanley-3.webp"
+            ],
+            "id": 203
+        },
+        {
+            "name": "Termo Coleman Acero Inoxidable Mate 700ML Rojo",
+            "material": "acero",
+            "brand": "coleman",
+            "color": "rojo",
+            "stock": 10,
+            "price": 7600,
+            "images": [
+                "../images/termos/termo-Coleman-4.webp"
+            ],
+            "id": 204
+        }
+    ],
+    "bombillas": [
+        {
+            "name": "Bombillas Mate Acero Inoxidable Resorte",
+            "material": "acero inoxidable",
+            "brand": "Uruguaya",
+            "color": "metal",
+            "stock": 10,
+            "price": 800,
+            "images": [
+                "../images/bombillas/acero-resorte-1.webp",
+                "../images/bombillas/acero-resorte-2.webp"
+            ],
+            "id": 300
+        },
+        {
+            "name": "Bombilla Acero Inoxidable Mate Plana Lavable Profesional",
+            "material": "acero inoxidable",
+            "brand": "Trendy Store",
+            "color": "metal",
+            "stock": 10,
+            "price": 1700,
+            "images": [
+                "../images/bombillas/lavable-profesional-1.webp",
+                "../images/bombillas/lavable-profesional-2.webp"
+            ],
+            "id": 301
+        },
+        {
+            "name": "Bombilla Chata Acero Inoxidable Premium",
+            "material": "acero inoxidable",
+            "brand": "Bonanza Mates",
+            "color": "metal",
+            "stock": 10,
+            "price": 700,
+            "images": [
+                "../images/bombillas/bombilla-chata-2.webp",
+                "../images/bombillas/bombilla-chata-1.webp"
+            ],
+            "id": 302
+        },
+        {
+            "name": "Bombilla Uruguaya Pico De Loro Autolimpiante",
+            "material": "acero inoxidable",
+            "brand": "Arrimate al mate",
+            "color": "metal",
+            "stock": 10,
+            "price": 1000,
+            "images": [
+                "../images/bombillas/bombilla-uruguaya-1.webp",
+                "../images/bombillas/bombilla-uruguaya-2.webp"
+            ],
+            "id": 303
+        }
+    ],
+    "mochilasmateras": [
+        {
+            "name": "Bolso Matero Mochila El Viejo Chaman Cusco Azabache Bolsillo",
+            "material": "Matelasse y Cordura",
+            "brand": "el viejo chaman",
+            "color": "negro",
+            "stock": 10,
+            "price": 7750,
+            "images": [
+                "../images/mochilas/mochila-chaman-1.webp",
+                "../images/mochilas/mochila-chaman-2.webp"
+            ],
+            "id": 400
+        },
+        {
+            "name": "Matera Bomber Neo Bag",
+            "material": "Bomber",
+            "brand": "neo bag",
+            "color": "negro",
+            "stock": 10,
+            "price": 6000,
+            "images": [
+                "../images/mochilas/mochila-neo-1.webp",
+                "../images/mochilas/mochila-neo-2.webp"
+            ],
+            "id": 401
+        },
+        {
+            "name": "Mochila Matera Southport Porta Termo",
+            "material": "acero inoxidable",
+            "brand": "gadnic",
+            "color": "azul",
+            "stock": 10,
+            "price": 6950,
+            "images": [
+                "../images/mochilas/mochila-gadnic-1.webp",
+                "../images/mochilas/mochila-gadnic-2.webp"
+            ],
+            "id": 402
+        },
+        {
+            "name": "Bolso Matero Mochila Para Mate Porta Termo Spirit",
+            "material": "Poliéster",
+            "brand": "promosud",
+            "color": "gris",
+            "stock": 10,
+            "price": 3300,
+            "images": [
+                "../images/mochilas/mochila-promosud-1.webp",
+                "../images/mochilas/mochila-promosud-2.webp",
+                "../images/mochilas/mochila-promosud-3.webp"
+
+            ],
+            "id": 403
+        }
+    ],
+    "equiposdemate": [
+        {
+            "name": "Kit Termo Kanson Classic 1lt + Mate Termico Acero Inoxidable",
+            "material": "acero inoxidable",
+            "brand": "kanson",
+            "color": "verde",
+            "stock": 10,
+            "price": 6999,
+            "images": [
+                "../images/equiposdemate/equipo-kanson-1.webp",
+                "../images/equiposdemate/equipo-kanson-2.webp",
+                "../images/equiposdemate/equipo-kanson-3.webp"
+                
+            ],
+            "id": 500
+        },
+        {
+            "name": "Set Matero Kit Completo Equipo Mate Porta Termo Eco Cuero",
+            "material": "eco cuero",
+            "brand": "full regalos",
+            "color": "azul",
+            "stock": 10,
+            "price": 6800,
+            "images": [
+                "../images/equiposdemate/equipo-matero-1.webp",
+                "../images/equiposdemate/equipo-matero-2.webp",
+                "../images/equiposdemate/equipo-matero-3.webp",
+                "../images/equiposdemate/equipo-matero-4.webp"
+                
+            ],
+            "id": 501
+        },
+        {
+            "name": "Set Equipo Mate Completo Termo Acero Bolso Bombilla Y Latas",
+            "material": "acero inoxidable",
+            "brand": "fr",
+            "color": "gris",
+            "stock": 10,
+            "price": 11999,
+            "images": [
+                "../images/equiposdemate/equipo-fr-1.webp",
+                "../images/equiposdemate/equipo-fr-2.webp",
+                "../images/equiposdemate/equipo-fr-3.webp",
+                "../images/equiposdemate/equipo-fr-4.webp",
+                "../images/equiposdemate/equipo-fr-5.webp",
+                "../images/equiposdemate/equipo-fr-6.webp"
+               
+            ],
+            "id": 502
+        },
+        {
+            "name": "Equipo Matero Torpedo",
+            "material": "acero inoxidable",
+            "brand": "Campero Regionales",
+            "color": "negro",
+            "stock": 10,
+            "price": 9190,
+            "images": [
+                "../images/equiposdemate/equipo-torpedo-1.webp"
+            ],
+            "id": 503
+        }
+    ],
+    "yerberas": [
+        {
+            "name": "Yerbera + Azucarera - Negra",
+            "material": "acero inoxidable",
+            "brand": "wayfarer",
+            "color": "negro",
+            "stock": 10,
+            "price": 1890,
+            "images": [
+                "../images/yerberas/yerbera-wayfarer-1.jpeg"
+            ],
+            "id": 600
+        },
+        {
+            "name": "Yerberas Mijo Diseño Negro",
+            "material": "acero",
+            "brand": "mijo",
+            "color": "negro",
+            "stock": 10,
+            "price": 1600,
+            "images": [
+                "../images/yerberas/yerbera-mijo-1.webp",
+                "../images/yerberas/yerbera-mijo-2.webp"
+            ],
+            "id": 601
+        },
+        {
+            "name": "Set Equipo Mate Completo Termo Acero Bolso Bombilla Y Latas",
+            "material": "acero",
+            "brand": "La Venderia",
+            "color": "verde",
+            "stock": 10,
+            "price": 1199,
+            "images": [
+                "../images/yerberas/yerbera-frases-1.webp"
+            ],
+            "id": 602
+        },
+        {
+            "name": "Yerbera Y Azucarera Estapados De Diseño",
+            "material": "acero inoxidable",
+            "brand": "Campero Regionales",
+            "color": "negro",
+            "stock": 10,
+            "price": 3200,
+            "images": [
+                "../images/yerberas/yerbera-estampa-1.webp"
+            ],
+            "id": 603
+        }
+    ]
+}
