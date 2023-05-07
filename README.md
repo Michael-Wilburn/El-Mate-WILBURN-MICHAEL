@@ -3,7 +3,7 @@
 Es un sitio web para la venta de diferentes artículos del mate.
 
 Link del repositorio: 
-    https://github.com/moneyripper/El-Mate-WILBURN-MICHAEL
+    https://github.com/Michael-Wilburn/El-Mate-WILBURN-MICHAEL.git
     
 Link del sitio web:
-    https://moneyripper.github.io/El-Mate-WILBURN-MICHAEL/
+    https://Michael-Wilburn.github.io/El-Mate-WILBURN-MICHAEL/
